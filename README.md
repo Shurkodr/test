@@ -2,4 +2,6 @@
 
 ## Demo link
 
-Add link here: `[DEMO LINK](https://<your_account>.github.io/<repo_name>/)`
+[DEMO LINK](https://shurkodr.github.io/test/)
+
+[TASK](https://www.notion.so/Front-End-Cocktail-DB-247fa699f3564404b4ffa1d7d2909600)
